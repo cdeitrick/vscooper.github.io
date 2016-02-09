@@ -1,12 +1,8 @@
 # Site wide configuration
 
-<<<<<<< HEAD
-title: Cooper Lab
-description:
-=======
+
 title: Cooper Laboratory
 description: "evolution-in-action at University of Pittsburgh School of Medicine"
->>>>>>> 6eb87d56b74d2750696d93732147dc9caedbbebe
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -41,7 +37,6 @@ titlecase: true
 
 
 # Site owner
-<<<<<<< HEAD
 owner:
   name:
   email:
@@ -52,7 +47,6 @@ owner:
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
-=======
 owner: Vaughn Cooper
 name: Vaughn Cooper
 email: vscooper@gmail.com
@@ -63,7 +57,6 @@ twitter: @vscooper
 #  bio:
 #  avatar: bio-photo.jpg # 160x160 px image for author byline
 #  disqus-shortname:
->>>>>>> 6eb87d56b74d2750696d93732147dc9caedbbebe
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
