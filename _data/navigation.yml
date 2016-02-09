@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: Research
+  url: http://micropopbio.org
+  excerpt: "Evolution in action"
+  image:
+
+- title: People
+  url: http://micropopbio.org
+  excerpt: "Researchers"
+  image:
+
+- title: Outreach
+  url: http://evolvingstem.org
+  excerpt: "Evolution in action"
+  image:
+
+- title: News
+  url: http://micropopbio.org
+  excerpt: "News"
+  image:
+
+- title: Affiliations
+  url: http://www.mmg.pitt.edu/person/vaughn-s-cooper
+  excerpt: "Appointments"
+  image:
