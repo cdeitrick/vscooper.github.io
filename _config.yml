@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Cooper Laboratory
-description: "evolution-in-action at U Pitt SOM"
+title:
+description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://micropopbio.org
+url:
 
 # Jekyll configuration
 
@@ -36,10 +36,10 @@ titlecase: true
 
 
 # Site owner
-owner: Vaughn Cooper
+owner:
   name:
-  email: vscooper@gmail.com
-  twitter: @vscooper
+  email:
+  twitter:
   google:
     ad-client:
     ad-slot:
