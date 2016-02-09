@@ -37,9 +37,9 @@ titlecase: true
 
 # Site owner
 owner: Vaughn Cooper
-  name: Vaughn Cooper
-  email: vscooper@gmail.com
-  twitter: @vscooper
+name: Vaughn Cooper
+email: vscooper@gmail.com
+twitter: @vscooper
 #  google:
 #    ad-client:
 #    ad-slot:
