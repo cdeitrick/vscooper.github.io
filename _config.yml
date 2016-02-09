@@ -1,7 +1,7 @@
 # Site wide configuration
 
 <<<<<<< HEAD
-title:
+title: Cooper Lab
 description:
 =======
 title: Cooper Laboratory
@@ -56,7 +56,7 @@ owner:
 owner: Vaughn Cooper
 name: Vaughn Cooper
 email: vscooper@gmail.com
-#twitter: @vscooper
+twitter: @vscooper
 #  google:
 #    ad-client:
 #    ad-slot:
