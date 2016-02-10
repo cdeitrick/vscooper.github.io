@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "News"
+title: "We study evolution in action"
 ---
 ![Burkholderia biofilm diversification](/images/burk-fm.gif)
 <div class="tiles">
