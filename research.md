@@ -3,8 +3,8 @@ layout: default
 title: Research
 permalink: /research/
 ---
-## The primary goal of our laboratory is to understand how bacterial populations evolve and adapt to colonize hosts and cause disease.
-By studying evolution-in-action, both in experimental populations and in ongoing infections, and using the latest methods in genomic sequencing, we seek to identify mechanisms of bacterial adaptation in vitro and in vivo. 
+## Our laboratory seeks to understand how bacterial populations evolve and adapt to colonize hosts and cause disease.
+By studying evolution-in-action, both in experimental populations and in ongoing infections, and using the latest methods in genomic sequencing, we seek to identify mechanisms of bacterial adaptation *in vitro* and *in vivo*. 
 
 
 ## Biofilms
