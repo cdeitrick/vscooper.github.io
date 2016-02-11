@@ -8,10 +8,10 @@ permalink: /research/
 
 
 ## Biofilms
-#### We are particularly focused on how bacterial populations form complex communities within biofilms and how cells perceive cues to attach or disperse.
+We are particularly focused on how bacterial populations form complex communities within biofilms and how cells perceive cues to attach or disperse.
 
 ## Origins of multicellularity
-#### How different bacterial strains or species coexist and interact when bound together on a surface allows us to explore the origins of multicellular life. We are proud to be part of a [NASA Astrobiology Institute](https://astrobiology.nasa.gov/nai/teams/can-7/umt/) that uses experimental evolution to pursue the goal: 
+How different bacterial strains or species coexist and interact when bound together on a surface allows us to explore the origins of multicellular life. We are proud to be part of a [NASA Astrobiology Institute](https://astrobiology.nasa.gov/nai/teams/can-7/umt/) that uses experimental evolution to pursue the goal: 
 `“To discover the laws that create Darwin’s ‘tangled bank’ remains one of biology’s grand challenges, one that requires understanding how differences among forms are selected for and how interdependence among forms is enforced.”`
 
 ## Why genome regions evolve at different rates
