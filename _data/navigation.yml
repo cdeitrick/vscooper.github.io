@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: Research
-  url: /research
+  url: /research/
   excerpt: "Biofilms, host adaptation, genome evolution, resistance"
   image: biofilm-confocal.gif
 
 - title: People
-  url: /people
+  url: /people/
   excerpt: "Researchers"
   image:
 
