@@ -1,9 +1,9 @@
 # Site navigation links
 
 - title: Research
-  url: http://micropopbio.org
-  excerpt: "Evolution in action"
-  image:
+  url: /research
+  excerpt: "Biofilms, host adaptation, genome evolution, resistance"
+  image: biofilm-confocal.gif
 
 - title: People
   url: http://micropopbio.org
