@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 permalink: /research/
 ---
 ## The primary goal of our laboratory is to understand how bacterial populations evolve and adapt to colonize hosts and cause disease.
