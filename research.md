@@ -12,7 +12,7 @@ We are particularly focused on how bacterial populations form complex communitie
 
 ## Origins of multicellularity
 How different bacterial strains or species coexist and interact when bound together on a surface allows us to explore the origins of multicellular life. We are proud to be part of a [NASA Astrobiology Institute](https://astrobiology.nasa.gov/nai/teams/can-7/umt/) that uses experimental evolution to pursue the goal: 
-`“To discover the laws that create Darwin’s ‘tangled bank’ remains one of biology’s grand challenges, one that requires understanding how differences among forms are selected for and how interdependence among forms is enforced.”`
+    “To discover the laws that create Darwin’s ‘tangled bank’ remains one of biology’s grand challenges, one that requires understanding how differences among forms are selected for and how interdependence among forms is enforced.”    
 
 ## Why genome regions evolve at different rates
 In bacterial genomes with multiple chromosomes, smaller, secondary chromosomes evolve more rapidly. We continue to explore the root causes of this variation as it may bear on variation in genome stability in all organisms. 
