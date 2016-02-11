@@ -6,7 +6,7 @@
   image: biofilm-confocal.gif
 
 - title: People
-  url: http://micropopbio.org
+  url: /people
   excerpt: "Researchers"
   image:
 
@@ -20,7 +20,7 @@
   excerpt: "News"
   image:
 
-- title: Affiliations
+- title: Contacts
   url: http://www.mmg.pitt.edu/person/vaughn-s-cooper
-  excerpt: "Appointments"
+  excerpt: "Affiliations"
   image:
