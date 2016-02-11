@@ -17,5 +17,5 @@ How different bacterial strains or species coexist and interact when bound toget
 ## Why genome regions evolve at different rates
 In bacterial genomes with multiple chromosomes, smaller, secondary chromosomes evolve more rapidly. We continue to explore the root causes of this variation as it may bear on variation in genome stability in all organisms. 
 
-## EvolvingSTEM: evolution-in-action leads to inspiring learning.
+## EvolvingSTEM: evolution-in-action leads to inspired learning.
 The real-time evolution of microbes into conspicuous new forms has inspired a high-school curriculum for learning evolutionary biology, ecology, and biotechnology by simple experimentation. Not only do students learn better, they become more engaged in science. We are working to share this curriculum nationwide.
