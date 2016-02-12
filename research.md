@@ -5,12 +5,14 @@ modified: 2016-02-12
 permalink: /research/
 ---
 ### Our laboratory seeks to understand how bacterial populations evolve and adapt to colonize hosts and cause disease.
-By studying evolution-in-action, both in experimental populations and in ongoing infections, and using the latest methods in genomic sequencing, we seek to identify mechanisms of bacterial adaptation *in vitro* and *in vivo*. 
+By studying evolution-in-action, in experimental populations and in ongoing infections, using the latest methods in genomic sequencing, we are identifying mechanisms of bacterial adaptation *in vitro* and *in vivo*. 
 
 {% include toc.html %}
 
 ## Biofilms
-We are particularly focused on how bacterial populations form complex communities within biofilms and how cells perceive cues to attach or disperse.
+We are focused on how bacteria form complex communities within biofilms and how individual cells perceive cues to attach or disperse.
+
+We have learned that adaptation involves a sequence of mutations in predictable targets that leads to diversification into ecologically differentiated subpopulations. Often, these subpopulations interact synergistically, with certain types affecting host response and others enhancing resistance. In addition, we now routinely sequence the genomes of hundreds of bacterial isolates from longitudinal samples to define evolutionary forces affecting the courses of infection and the driver mutations, whose functions we work to experimentally identify.
 
 ## Origins of multicellularity
 How different bacterial strains or species coexist and interact when bound together on a surface allows us to explore the origins of multicellular life. We are proud to be part of a [NASA Astrobiology Institute](https://astrobiology.nasa.gov/nai/teams/can-7/umt/) that uses experimental evolution to pursue the goal: 
