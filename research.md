@@ -21,9 +21,7 @@ How different bacterial strains or species coexist and interact when bound toget
 {: .notice}
 
 ## Why genome regions evolve at different rates
-In bacterial genomes with multiple chromosomes, smaller, secondary chromosomes evolve more rapidly. We continue to explore the root causes of this variation as it may bear on variation in genome stability in all organisms. 
-
-Genome Evolution
+In bacterial genomes with multiple chromosomes, smaller, secondary chromosomes evolve more rapidly. We are exploring the root causes of this variation as it may bear on variation in genome stability in all organisms. 
 
 Does chromosome position affect gene evolutionary rate?
 
