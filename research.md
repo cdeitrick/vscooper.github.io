@@ -42,9 +42,8 @@ See:
 How do mutation rates and spectra vary among genome regions?
 
 Intra-genome variation in the rates and spectra of mutations could provide a mechanism by which selection acts on genome organization to influence both the origin of genetic variation as well as its fate.  We use mutation-accumulation experiments (MA) paired with whole-genome-sequencing (WGS) to capture the mutational process of various bacterial species with unprecedented resolution. 
-See
 
-1.Dillon MM, Sung W, Lynch M, Cooper VS. The Rate and Molecular Spectrum of Spontaneous Mutations in the GC-Rich Multichromosome Genome of Burkholderia cenocepacia. Genetics. 2015;200(3):935-46. doi: 10.1534/genetics.115.176834;  PMID:25971664. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25971664)
+1. Dillon MM, Sung W, Lynch M, Cooper VS. The Rate and Molecular Spectrum of Spontaneous Mutations in the GC-Rich Multichromosome Genome of Burkholderia cenocepacia. Genetics. 2015;200(3):935-46. doi: 10.1534/genetics.115.176834;  PMID:25971664. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25971664)
 
 
 ## EvolvingSTEM: evolution-in-action leads to inspired learning.
