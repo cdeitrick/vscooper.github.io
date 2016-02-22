@@ -4,7 +4,7 @@ title: Research
 modified: 2016-02-12
 permalink: /research/
 ---
-### Our laboratory seeks to understand how bacterial populations evolve and adapt to colonize hosts and cause disease.
+### We seek to understand how bacterial populations evolve and adapt to colonize hosts and cause disease.
 By studying evolution-in-action, in experimental populations and in ongoing infections, using the latest methods in genomic sequencing, we are identifying mechanisms of bacterial adaptation *in vitro* and *in vivo*. 
 
 {% include toc.html %}
