@@ -3,22 +3,22 @@ permalink: /people/
 layout: archive
 ---
 
-###PI
+### PI
 Vaughn Cooper, Ph.D.
 
-###Postdocs
+### Postdocs
 Caroline Turner, Ph.D.
 
-###Technicians
+### Technicians
 
 Dan Snyder, Research Technician IV
 
-###Graduate Students
+### Graduate Students
 
 Katrina Harris, Ph.D. student
 
-###Undergraduate Students
+### Undergraduate Students
 
-###Major Collaborators
+### Major Collaborators
 
-###Alumni
+### Alumni
