@@ -8,7 +8,7 @@ Vaughn Cooper, Ph.D.
 ###Postdocs
 Caroline Turner, Ph.D.
 
-###Technician
+###Technicians
 
 Dan Snyder, Research Technician IV
 
