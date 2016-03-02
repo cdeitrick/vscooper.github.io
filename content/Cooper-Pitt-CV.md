@@ -2,7 +2,6 @@
 layout: default
 title: CV
 modified: 2016-03-01
-permalink: /cv/
 ---
 CURRICULUM VITAE
 
