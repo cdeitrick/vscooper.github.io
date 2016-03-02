@@ -4,18 +4,18 @@ layout: archive
 ---
 
 ### PI
-Vaughn Cooper, Ph.D.
+Vaughn Cooper, Ph.D. [mail] [CV] [twitter] 
 
 ### Postdocs
-Caroline Turner, Ph.D.
+Caroline Turner, Ph.D. [mail] [research] [CV]
 
 ### Technicians
 
-Dan Snyder, Research Technician IV
+Dan Snyder, Research Technician IV [mail] [CV]
 
 ### Graduate Students
 
-Katrina Harris, Ph.D. student
+Katrina Harris, Ph.D. student [mail] [research] [CV]
 
 ### Undergraduate Students
 
