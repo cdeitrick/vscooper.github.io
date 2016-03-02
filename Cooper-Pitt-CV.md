@@ -5,9 +5,6 @@ CURRICULUM VITAE
   ---------------------------------------------------------------------------------------------------------------------------
   **Name**: Vaughn Scott Cooper                                                           
   --------------------------------------------------------------------------------------- -----------------------------------
-  **Home Address**: 291 Fairoaks St, Wexford PA 15090                                     **Birth Place**: Madison, WI, USA
-
-  **Home Phone:** 603-988-7590                                                            **Citizenship**: US
 
   **Business Address:** 425 Bridgeside Pt II, 450 Technology Dr., Pittsburgh, PA 15219.   **E-Mail Address:\
                                                                                           **vaughn.cooper@pitt.edu
