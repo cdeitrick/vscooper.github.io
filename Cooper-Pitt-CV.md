@@ -11,8 +11,8 @@ CURRICULUM VITAE
   ---------------------------------------------------------------------------------------------------------------------------
   **Name**: Vaughn Scott Cooper                                                           
 
-  **Business Address:** 425 Bridgeside Pt II, 450 Technology Dr., Pittsburgh, PA 15219.   **E-Mail Address:
-                                                                                          **vaughn.cooper@pitt.edu
+  **Business Address:** 425 Bridgeside Pt II, 450 Technology Dr., Pittsburgh, PA 15219.   **E-Mail Address:** vaughn.cooper@pitt.edu
+                                                                                          
 
   **Business Phone:** (412) 624-1265                                                      **Business Fax:** (412) 624-8997
 
