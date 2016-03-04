@@ -31,6 +31,7 @@ CURRICULUM VITAE
 **POSTGRADUATE**
 
   2000-2003   University of Michigan   Postdoctoral Fellow, Michigan Society of Fellows   Dept of Ecology and Evolutionary Biology
+  
   2003-2004   University of Michigan   Research Scientist                                 Dept. of Pediatrics
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -38,7 +39,9 @@ CURRICULUM VITAE
 **APPOINTMENTS AND POSITIONS**
 
   2004-2010   University of New Hampshire   Assistant Professor, Dept of Microbiology
+  
   2010-2015   University of New Hampshire   Associate Professor, Dept of Molecular, Cellular, and Biomedical Sciences
+  
   2015-       University of Pittsburgh      Visiting Associate Professor, University of Pittsburgh School of Medicine
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
