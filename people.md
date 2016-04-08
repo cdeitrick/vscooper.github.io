@@ -24,13 +24,10 @@ Nate Phillips
 Abe Cullum
 
 ### Major Collaborators
-The SysBioAMR Team: Tim van Opijnen, Ralph Isberg, Jason Rosch, and Jose Bento
-The YciR Biofilm Adaptation Team: Chris Waters and Matt Neiditch
-co-PI's of the NASA Astrobiology Institute: Frank Rosenzweig, Gavin Sherlock, Shelley Copley, Paul Sniegowski, Phil Gerrish, Scott
-Leonilde Moreira
-
-Isabel sa-Correia
-
-Cheryl Whistler
+**The SysBioAMR Team**: Tim van Opijnen, Ralph Isberg, Jason Rosch, and Jose Bento
+**The YciR Biofilm Adaptation Team**: Chris Waters and Matt Neiditch
+the **NASA Astrobiology Institute**: Frank Rosenzweig, Gavin Sherlock, Shelley Copley, Paul Sniegowski, Phil Gerrish, Scott Miller
+**Evolution in CF**: Leonilde Moreira, Isabel sa-Correia, Jen Bomberger
+**Evolution in the Squid**: Cheryl Whistler
 
 ### Alumni
