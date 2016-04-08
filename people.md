@@ -19,6 +19,10 @@ Katrina Harris, Ph.D. student [mail] [research] [CV]
 
 ### Undergraduate Students
 
+Matt Eskuchen
+Nate Phillips
+Abe
+
 ### Major Collaborators
 
 ### Alumni
