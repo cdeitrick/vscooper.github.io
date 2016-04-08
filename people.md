@@ -21,8 +21,16 @@ Katrina Harris, Ph.D. student [mail] [research] [CV]
 
 Matt Eskuchen
 Nate Phillips
-Abe
+Abe Cullum
 
 ### Major Collaborators
+The SysBioAMR Team: Tim van Opijnen, Ralph Isberg, Jason Rosch, and Jose Bento
+The YciR Biofilm Adaptation Team: Chris Waters and Matt Neiditch
+co-PI's of the NASA Astrobiology Institute: Frank Rosenzweig, Gavin Sherlock, Shelley Copley, Paul Sniegowski, Phil Gerrish, Scott
+Leonilde Moreira
+
+Isabel sa-Correia
+
+Cheryl Whistler
 
 ### Alumni
