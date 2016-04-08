@@ -6,6 +6,8 @@ layout: archive
 ### PI
 Vaughn Cooper, Ph.D. [mail](mailto:vaughn.cooper@pitt.edu) [CV](/cv) [twitter](http://twitter.com/vscooper)
 
+### [Opportunities](/opportunities)
+
 ### Postdocs
 Caroline Turner, Ph.D. [mail] [research] [CV]
 
