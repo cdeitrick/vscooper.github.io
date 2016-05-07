@@ -4,6 +4,8 @@ permalink: /
 title: "We study evolution in action"
 ---
 ![Burkholderia biofilm diversification](/images/burk-fm.gif)
+
+lab website rebuild in progress
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
