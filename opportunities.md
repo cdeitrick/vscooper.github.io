@@ -15,5 +15,6 @@ The Cooper laboratory is growing and is seeking researchers who share our goal o
   a. [Biology](http://biology.pitt.edu/graduate)
   b. [Carnegie Mellon-Pitt Computational Biology](http://www.compbio.cmu.edu/)
   c. [Molecular Virology and Microbiology](http://www.mvm.pitt.edu/)
- 
+
+Please direct inquiries about all positions to [Vaughn](mailto://vaughn.cooper@pitt.edu).
 
