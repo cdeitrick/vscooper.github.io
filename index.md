@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "We study evolution in action"
 ---
-![Biofilm diversification and mutation-rate variation](/images/header-160507.jpg)
+![Biofilm diversification and mutation-rate variation](/images/header_160507.jpg)
 
 lab website rebuild in progress
 <div class="tiles">
