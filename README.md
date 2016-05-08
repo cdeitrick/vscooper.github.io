@@ -11,3 +11,4 @@ This is a rebuild of our lab website, now on GitHub
 * Data files for easier customization of the site navigation/footer and for supporting multiple authors.
 * Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
 * Based on [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/)
+* General organization / instructions found [here](https://mmistakes.github.io/skinny-bones-jekyll/getting-started/)
