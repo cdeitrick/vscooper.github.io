@@ -4,7 +4,7 @@ layout: archive
 ---
 
 ### PI
-Vaughn Cooper, Ph.D. [mail](mailto:vaughn.cooper@pitt.edu) [bio](/cooper-bio.md) [CV](/Cooper-Pitt-CV.md) [twitter](http://twitter.com/vscooper)
+Vaughn Cooper, Ph.D. [mail](mailto:vaughn.cooper@pitt.edu) [bio](/cooper-bio.md) [CV](/cv) [twitter](http://twitter.com/vscooper)
 
 ### [Opportunities](/opportunities)
 
