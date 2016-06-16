@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bio
+modified: 2016-02-12
+permalink: /cooper-bio/
+---
+
 ### Vaughn Cooper, Ph.D. 
 Biography
 
