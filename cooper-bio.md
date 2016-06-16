@@ -1,4 +1,5 @@
-Vaughn Cooper, Ph.D. Biography
+### Vaughn Cooper, Ph.D. 
+Biography
 
 * 2004-2010	University of New Hampshire, Assistant Professor, Dept of Microbiology
 * 2010-2015	University of New Hampshire, Associate Professor, Dept of Molecular, Cellular, and Biomedical Sciences
