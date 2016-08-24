@@ -1,5 +1,5 @@
 ---
-permalink: /people/DanSnyder
+permalink: /people/DanSnyder/
 layout: archive
 ---
 
