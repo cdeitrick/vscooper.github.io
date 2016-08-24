@@ -9,15 +9,17 @@ layout: archive
 ### [Opportunities](/opportunities)
 
 ### Postdocs
-Caroline Turner, Ph.D. [mail] [research] [CV]
+[Caroline Turner](/people/CarolineTurner/), Ph.D. [mail] [research] [CV]
+[Chris Marshall](/people/ChrisMarshall/), Ph.D. [mail] [research] [CV]
 
 ### Technicians
 
-Dan Snyder, Research Technician IV [mail] [CV]
+[Dan Snyder](/people/DanSnyder/), Research Technician IV [mail] [CV]
+[Emily Sileo](/people/EmilySileo/), Research Assistant [mail] [CV]
 
 ### Graduate Students
 
-Katrina Harris, Ph.D. student [mail] [research] [CV]
+[Katrina Harris](/people/KatrinaHarris/), Ph.D. student [mail] [research] [CV]
 
 ### Undergraduate Students
 
