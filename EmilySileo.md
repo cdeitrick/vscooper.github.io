@@ -1,5 +1,5 @@
 ---
-permalink: /people/EmilySileo
+permalink: /people/EmilySileo/
 layout: archive
 ---
 
