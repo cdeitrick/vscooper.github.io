@@ -1,5 +1,5 @@
 ---
-permalink: /people/KatrinaHarris
+permalink: /people/KatrinaHarris/
 layout: archive
 ---
 
