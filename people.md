@@ -10,11 +10,13 @@ layout: archive
 
 ### Postdocs
 [Caroline Turner](/people/CarolineTurner/), Ph.D. [mail] [research] [CV]
+
 [Chris Marshall](/people/ChrisMarshall/), Ph.D. [mail] [research] [CV]
 
 ### Technicians
 
 [Dan Snyder](/people/DanSnyder/), Research Technician IV [mail] [CV]
+
 [Emily Sileo](/people/EmilySileo/), Research Assistant [mail] [CV]
 
 ### Graduate Students
