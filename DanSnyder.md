@@ -3,4 +3,4 @@ permalink: /people/DanSnyder/
 layout: archive
 ---
 
-            About Dan:
+<center> About Dan Snyder </center>
