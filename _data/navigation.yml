@@ -30,28 +30,27 @@
   excerpt: "About Vaughn Cooper"
   image:
 
--title:            
- url: /people/CarolineTurner/
- excerpt: "About Caroline Turner"
- image:
+- title:            
+  url: /people/CarolineTurner/
+  excerpt: "About Caroline Turner"
+  image:
  
--title:
- url: /people/ChrisMarshall/
- excerpt: "About Chris Marshall"
- image:
+- title:
+  url: /people/ChrisMarshall/
+  excerpt: "About Chris Marshall"
+  image:
  
--title:
- url: /people/DanSnyder/
- excerpt: "About Dan Snyder"
- image:
+- title:
+  url: /people/DanSnyder/
+  excerpt: "About Dan Snyder"
+  image:
 
--title:
- url: /people/KatrinaHarris/
- excerpt: "About Katrina Harris"
- image:
+- title:
+  url: /people/KatrinaHarris/
+  excerpt: "About Katrina Harris"
+  image:
  
--title:
-url: /people/EmilySileo
-excerpt: "About Emily Sileo"
-image:
-  
+- title:
+  url: /people/EmilySileo
+  excerpt: "About Emily Sileo"
+  image:
