@@ -3,9 +3,9 @@ permalink: /people/
 layout: archive
 ---
 
-<center>![Cooper](/images/CooperHeadshot.jpeg)</center>
+![Cooper](/images/CooperHeadshot.jpeg)
 
-<center>### PI</center>
+### PI
 
 <center>[Vaughn Cooper](/people/VaughnCooper/), Ph.D. [mail](mailto:vaughn.cooper@pitt.edu) [bio](/cooper-bio) [CV](/cv) <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
