@@ -3,7 +3,7 @@ permalink: /people/
 layout: archive
 ---
 
-<center>(/images/CooperHeadshot)</center>
+<center>![Cooper](/images/CooperHeadshot)</center>
 
 <center>### PI</center>
 
