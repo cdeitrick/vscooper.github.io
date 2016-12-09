@@ -2,7 +2,7 @@
 permalink: /people/
 layout: archive
 ---
-<p> <img /images/CooperHeadshot.jpeg /> </p>
+<p> <img src="/images/CooperHeadshot.jpeg" /> </p>
 
 ### PI
 
