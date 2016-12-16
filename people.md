@@ -15,7 +15,7 @@ layout: archive
 <br><br><br>
 
 <style type="text/css">
-  .center{float:center;}
+  .center{float:left; text-align: center;}
 </style>
 
 <img class="center" src="/images/turner.jpeg.jpg" />
