@@ -12,3 +12,11 @@ layout: archive
   <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a> |
   <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+<br><br><br>
+
+<p align="left">
+  <img src="/images/turner.jpeg">
+  <p align="right">
+    <img src="/images/CooperHeadshot.jpeg">
+  </p>
+</p>
