@@ -15,8 +15,8 @@ layout: archive
 <br><br><br>
 
 <style type="text/css">
-  .left{float:left;}
+  .center{float:center;}
 </style>
 
-<img class="left" src="/images/turner.jpeg.jpg" />
-<img class="left" src="/images/CooperHeadshot.jpeg" />
+<img class="center" src="/images/turner.jpeg.jpg" />
+<img class="center" src="/images/CooperHeadshot.jpeg" />
