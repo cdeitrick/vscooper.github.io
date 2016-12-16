@@ -15,7 +15,7 @@ layout: archive
 <br><br><br>
 
 <p align="left">
-  <img src="/images/turner.jpeg">
+  <img src="/images/turner.jpeg.jpg">
   <p align="right">
     <img src="/images/CooperHeadshot.jpeg">
   </p>
