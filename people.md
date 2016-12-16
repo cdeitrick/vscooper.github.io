@@ -15,7 +15,7 @@ layout: archive
 <br><br><br>
 
 <style type="text/css">
-  .link{float:center; text-align: center;}
+  .link{float:center; align:center;}
 </style>
 
 <div class="link"><img class="center" src="/images/turner.jpeg.jpg" /><img class="center" src="/images/CooperHeadshot.jpeg" /></div>
