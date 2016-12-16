@@ -7,5 +7,5 @@ layout: archive
   <br>
   <b>PI</b>
   <br>
-  [Vaughn Cooper](/people/VaughnCooper/), Ph.D. [mail](mailto:vaughn.cooper@pitt.edu), [bio](/cooper-bio) [CV](/cv)
+  <p>[Vaughn Cooper](/people/VaughnCooper/), Ph.D. [mail](mailto:vaughn.cooper@pitt.edu), [bio](/cooper-bio) [CV](/cv)</p>
 </p>
