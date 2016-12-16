@@ -14,9 +14,10 @@ layout: archive
 </p>
 <br><br><br>
 
-<p align="left">
-  <img src="/images/turner.jpeg.jpg">
-  <p align="right">
-    <img src="/images/CooperHeadshot.jpeg">
-  </p>
-</p>
+.link {
+  float: left;
+  text-align: center;
+}
+
+<div class="link"><img src="/images/turner.jpeg.jpg"></div>
+<div class="link"><img src="/images/CooperHeadshot.jpeg"></div>
