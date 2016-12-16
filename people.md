@@ -14,7 +14,9 @@ layout: archive
 </p>
 <br><br><br>
 
-.link {width: 50%; float: left; text-align: center;}
+<style type="text/css">
+  .left{float:left;}
+</style>
 
-<div class="link"><img src="/images/turner.jpeg.jpg"></div>
-<div class="link"><img src="/images/CooperHeadshot.jpeg"></div>
+<img class="left" src="/images/turner.jpeg.jpg" />
+<img class="left" src="/images/CooperHeadshot.jpeg" />
