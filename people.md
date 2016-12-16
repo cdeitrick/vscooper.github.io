@@ -5,6 +5,7 @@ layout: archive
 <p align="center">
   <img src="/images/CooperHeadshot.jpeg">
   <br>
-  ###PI
+  <b>PI</b>
+  <br>
   [Vaughn Cooper](/people/VaughnCooper/), Ph.D. [mail](mailto:vaughn.cooper@pitt.edu), [bio](/cooper-bio) [CV](/cv)
 </p>
