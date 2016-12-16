@@ -15,6 +15,7 @@ layout: archive
 <br><br><br>
 
 .link {
+  width: 50%;
   float: left;
   text-align: center;
 }
