@@ -7,5 +7,6 @@ layout: archive
   <br>
   <b>PI</b>
   <br>
-  <a href="/people/VaughnCooper/">Vaughn Cooper</a>
+  <a href="/people/VaughnCooper/">Vaughn Cooper, Ph.D,</a> |
+  <a href="mailto:vaughn.cooper@pitt.edu">Contact</a>
 </p>
