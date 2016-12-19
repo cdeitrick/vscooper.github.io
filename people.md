@@ -47,8 +47,8 @@ layout: archive
   </p>
  <br>
    <p>
-    <img src="/images/beakerhands.jpg" align="left" hspace="100">
-    <img src="/images/beakerhands.jpg" align="center" hspace="1">
-    <img src="/images/beakerhands.jpg" align="right" hspace="100">
+    <img src="/images/beakerhands.jpg" align="left" hspace="50">
+    <img src="/images/beakerhands.jpg" align="center" hspace="0">
+    <img src="/images/beakerhands.jpg" align="right" hspace="50">
   </p> 
 </html>
