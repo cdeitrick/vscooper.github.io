@@ -34,7 +34,7 @@ layout: archive
   <div id="textbox">
    <p class="left_indent">PI</p>
    <p class="center">Postdoc</p>
-   <p class="right_indent">Assisstant Research Professor</p>
+   <p class="right_indent">Assisstant</p>
   </div>
   
  <div style="clear: both;"></div>
