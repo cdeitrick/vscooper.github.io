@@ -10,15 +10,15 @@ layout: archive
 
     #leftDiv { float: left; }
 
-    #middleDiv {margin-right: auto; margin-left: auto; text-align:center; /*float: left; */ }
+    #middleDiv {margin-right: auto; margin-left: auto; text-align: center; /*float: left; */ }
 
-    #rightDiv { float: right; text-align:right; clear: right; }
+    #rightDiv { float: right; text-align: right; clear: right; }
     
-    .left_indent { float: left; }
+    .left_indent { float: left; text-align: left;}
     
-    .center {margin-right: auto; margin-left: auto; text-align:center;}
+    .center {floar: left; text-align: center;}
     
-    .right_indent { float: right; text-align:right; clear: right; }
+    .right_indent { float: left; text-align: right;}
 
   </style>
   </head>
