@@ -13,17 +13,27 @@ layout: archive
     #middleDiv {margin-right: auto; margin-left: auto; text-align:center; /*float: left; */ }
 
     #rightDiv { float: right; text-align:right; clear: right; }
+    
+    .left_indent { text-align: left }
+    
+    .center { text-align: center }
+    
+    .right_indent { text-align: right }
 
   </style>
   </head>
   
-  <body>
-    <div id="imageHolder2">
-      <div id="leftDiv"><img src="/images/CooperHeadshot.jpeg" alt="left" /></div>
-      <div id="rightDiv"><img src="/images/beakerhands.jpg" alt="right" /></div>
-      <div id="middleDiv"><img src="/images/turner.jpeg.jpg" alt="middle" /></div>
-      
-    </div>
-  </body>
+ <body>
+   <div id="imageHolder2">
+     <div id="leftDiv"><img src="/images/CooperHeadshot.jpeg" alt="left" /></div>
+     <div id="rightDiv"><img src="/images/beakerhands.jpg" alt="right" /></div>
+     <div id="middleDiv"><img src="/images/turner.jpeg.jpg" alt="middle" /></div>  
+   </div>
+ </body>
 
+ <p>
+  <span class="left_indent"><b>PI</b></span>
+  <span class="center"><b>Postdoc</b></span>
+  <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
+  
 </html>
