@@ -3,7 +3,7 @@ permalink: /people/
 layout: archive
 ---
 <p align="center">
-  <img src="/images/CooperHeadshot.jpeg">
+  <img src="/images/CooperHeadshot.jpeg" />
   <br>
   <b>PI</b>
   <br>
@@ -13,3 +13,16 @@ layout: archive
   <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 <br><br><br>
+
+.centerpics {
+
+}
+
+#images{
+    text-align:center;
+}
+
+<div id="images">
+  <a><img src="/images/CooperHeadshot.jpeg" /></a>
+  <a><img src="/images/CooperHeadshot.jpeg" /></a>
+</div>
