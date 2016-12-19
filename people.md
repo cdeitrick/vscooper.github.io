@@ -10,7 +10,7 @@ layout: archive
       .left_indent_people { margin-left: 35px; }
       .right_indent_people { margin-right: 35px; float: right; }
       .dan_snyder { margin-left: 35px; }
-      .katrina_harris { margin-right: 35px; }
+      .katrina_harris { margin-right: 35px; float: right; }
   </style>
   
   <p align="center">
