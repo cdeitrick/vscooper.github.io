@@ -4,7 +4,7 @@ layout: archive
 <!DOCTYPE html>
 ---
 <html>
-  <link rel="stylesheet" href="css/leftindent.css" />
+  <link rel="stylesheet" type="text/css" href="css/leftindent.css">
 
 
   <p align="center">
