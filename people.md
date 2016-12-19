@@ -15,7 +15,9 @@ layout: archive
 <br><br><br>
 
 .centerpics {
-  
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #images{
@@ -23,6 +25,6 @@ layout: archive
 }
 
 <div id="images">
-  <img src="/images/CooperHeadshot.jpeg" />
-  <img src="/images/CooperHeadshot.jpeg" />
+  <img class="ceterpics" src="/images/CooperHeadshot.jpeg" />
+  <img class="ceterpics" src="/images/CooperHeadshot.jpeg" />
 </div>
