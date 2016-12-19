@@ -14,11 +14,11 @@ layout: archive
 
     #rightDiv { float: right; text-align:right; clear: right; }
     
-    .left_indent { text-align: left }
+    .left_indent { float: left; }
     
-    .center { text-align: center }
+    .center { text-align: center; }
     
-    .right_indent { text-align: right }
+    .right_indent { text-align: right; }
 
   </style>
   </head>
