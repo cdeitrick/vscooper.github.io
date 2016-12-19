@@ -16,5 +16,5 @@ layout: archive
 
 <p align="center">
   <img src="/images/CooperHeadshot.jpeg" />
-  <img src="/images/CooperHeadshot.jpeg" />
+  <img src="/images/beakerhands.jpg" />
 </p>
