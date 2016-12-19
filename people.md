@@ -9,6 +9,8 @@ layout: archive
       .right_indent { margin-right: 50px; float: right; }
       .left_indent_people { margin-left: 35px; }
       .right_indent_people { margin-right: 35px; float: right; }
+      .Dan_Snyder { margin-left: 35px; }
+      .Katrina_Harris { margin-right: 35px; }
   </style>
   
   <p align="center">
@@ -56,13 +58,13 @@ layout: archive
     <span class="left_indent"><b>Senior Research Spealist</b></span>
     <span class="right_indent"><b>Ph.D. Student</b></span>
     <br>
-    <span class="left_indent_people">
-      <a href="/people/DanSnyder.md/">Dan Snyder, M.S.</a> | 
+    <span class="dan_snyder">
+      <a href="/people/DanSnyder.md/">Dan Snyder</a> | 
       <a href="#">CV</a> |
       <a href="mailto:djs150@pitt.edu">Contact Me</a>
     </span>
-    <span class="right_indent_people">
-      <a href="/people/KatrinaHarris.md/">Katrina Harris, Ph.D. Student</a> |
+    <span class="katrina_harris">
+      <a href="/people/KatrinaHarris.md/">Katrina Harris</a> |
       <a href="#">CV</a> |
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
