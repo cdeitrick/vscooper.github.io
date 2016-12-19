@@ -27,6 +27,6 @@ layout: archive
   </p>
   <br><br><br><br><br><br><br>
 
-  <body class="leftindent">Caroline Turner</body>
+  <p class="leftindent">Caroline Turner</p>
   
 </html>
