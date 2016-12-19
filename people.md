@@ -7,7 +7,7 @@ layout: archive
   <style>
       .left_indent { margin-left: 150px; }
       .right_indent { margin-right: 50px; float: right; }
-      .left_indent_people { margin-left: 55px; }
+      .left_indent_people { margin-left: 45px; }
   </style>
   
   <p align="center">
