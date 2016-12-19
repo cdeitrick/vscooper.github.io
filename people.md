@@ -33,7 +33,7 @@ layout: archive
   <p> 
     <span class="left_indent"><b>Postdoc</b></span>
     <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
-    <br><br><br><br><br><br><br>
+    <br><br><br><br>
     <span class="left_indent_people">
       <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
       <a href="#">CV</a> |
