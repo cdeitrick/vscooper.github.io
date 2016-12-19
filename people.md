@@ -14,8 +14,8 @@ layout: archive
     <br>
     <b>PI</b>
     <br>
-    <a href="/people/VaughnCooper/">Vaughn Cooper, Ph.D.</a> |
-    <a href="/cooper-bio">CV</a> |
+    <a href="/cooper-bio">Vaughn Cooper, Ph.D.</a> |
+    <a href="/Cooper-Pitt-CV.md">CV</a> |
     <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a><br><br>
     <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
@@ -26,12 +26,17 @@ layout: archive
     <img src="/images/turner.jpeg.jpg" align="left" hspace="100">
     <img src="/images/beakerhands.jpg" align="right" hspace="100">
   </p>
-  <br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
 
   <p> 
     <span class="leftindent"><b>Postdoc</b></span>
     <span class="rightindent"><b>Assisstant Reseach Professor</b></span>
-  </p>
- 
- 
+    <br>
+    <span class="leftindent">
+      <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
+      <a href="#">CV</a>
+      <a href="mailto:cbt12@pitt.edu">Contact Me</a>
+      </span>
+    <
+    
 </html>
