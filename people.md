@@ -2,41 +2,52 @@
 permalink: /people/
 layout: archive
 ---
- <html>
-  <head>
-  <style type="text/css">
+<html>
 
-    #imageHolder2 { margin-right: auto; margin-left: auto; }
-
-    #leftDiv { float: left; }
-
-    #middleDiv {margin-right: auto; margin-left: auto; text-align: center; /*float: left; */ }
-
-    #rightDiv { float: right; text-align: right; clear: right; }
-    
-    .left_indent { float: left; text-align: left; margin-right:100px; }
-    
-    .center {text-align: center;}
-    
-    .right_indent { float: right; margin-right:100px;}
-
+  <style>
+      .left_indent { margin-left: 150px; }
+      .right_indent { margin-right: 50px; float: right; }
+      .left_indent_people { margin-left: 35px; }
+      .right_indent_people { margin-right: 35px; float: right; }
   </style>
-  </head>
   
- <body>
-   <div id="imageHolder2">
-     <div id="leftDiv"><img src="/images/CooperHeadshot.jpeg" alt="left" /></div>
-     <div id="rightDiv"><img src="/images/beakerhands.jpg" alt="right" /></div>
-     <div id="middleDiv"><img src="/images/turner.jpeg.jpg" alt="middle" /></div>  
-   </div>
- </body>
+  <p align="center">
+    <img src="/images/CooperHeadshot.jpeg" />
+    <br>
+    <b>PI</b>
+    <br>
+    <a href="/cooper-bio">Vaughn Cooper, Ph.D.</a> |
+    <a href="/cv/">CV</a> |
+    <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a><br><br>
+    <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </p>
+  <br>
 
-  <div id="textbox">
-   <p class="left_indent">PI</p>
-   <p class="center">Postdoc</p>
-   <p class="right_indent">Assisstant Research Professor</p>
-  </div>
-  
- <div style="clear: both;"></div>
 
+  <p>
+    <img src="/images/turner.jpeg.jpg" align="left" hspace="100">
+    <img src="/images/beakerhands.jpg" align="right" hspace="100">
+  </p>
+  <br><br><br><br><br><br><br>
+
+  <p> 
+    <span class="left_indent"><b>Postdoc</b></span>
+    <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
+    <br>
+    <span class="left_indent_people">
+      <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
+      <a href="#">CV</a> |
+      <a href="mailto:cbt12@pitt.edu">Contact Me</a>
+    </span>
+    <span class="right_indent_people">
+      <a href="/people/ChrisMarshall.md/">Chris Marshall, Ph.D.</a> |
+      <a href="#">CV</a> |
+      <a href="mailto:cmarshall@pitt.edu">Contact Me</a>
+    </span>
+  </p>
+ <br>
+   <p>
+    <img src="/images/beakerhands.jpg" align="left" hspace="100">
+    <img src="/images/beakerhands.jpg" align="right" hspace="100">
+  </p> 
 </html>
