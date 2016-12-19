@@ -45,7 +45,7 @@ layout: archive
       <a href="mailto:cmarshall@pitt.edu">Contact Me</a>
     </span>
   </p>
- <br><br>
+ <br>
    <p>
     <img src="/images/beakerhands.jpg" align="left" hspace="100">
     <img src="/images/beakerhands.jpg" align="right" hspace="100">
