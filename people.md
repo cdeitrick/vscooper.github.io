@@ -5,15 +5,15 @@ layout: archive
 <html>
 
   <style>
-      .left_indent { margin-left: 150px; }
-      .right_indent { margin-right: 150px; }
-      .left_indent_people { margin-left: 35px; }
+      .left_indent { margin-left: 150px; float: left }
+      .right_indent { margin-right: 150px; float: right; }
+      .center { float: center; }
       .right_indent_people { margin-right: 35px; float: right; }
   </style>
   
   <p>
     <img src="/images/CooperHeadshot.jpeg" class="left_indent">
-    <img src="/images/turner.jpeg.jpg" align="center">
+    <img src="/images/turner.jpeg.jpg" class="center">
     <img src="/images/beakerhands.jpg" class="right_indent">
   </p>
     
