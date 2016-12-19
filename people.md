@@ -14,7 +14,9 @@ layout: archive
 </p>
 <br><br><br>
 
-<p >
+.tab { margin-left: 40px; }
+
+<p class="tab">
   <img src="/images/turner.jpeg.jpg" align="left"/>
   <img src="/images/beakerhands.jpg" align="right"/>
 </p>
