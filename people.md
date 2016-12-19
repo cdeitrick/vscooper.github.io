@@ -14,11 +14,11 @@ layout: archive
 
     #rightDiv { float: right; text-align: right; clear: right; }
     
-    .left_indent { float: left; text-align: left;}
+    .left_indent { float: left; text-align: left; margin-right:100px; }
     
     .center {text-align: center;}
     
-    .right_indent { float: right;}
+    .right_indent { float: right; margin-right:200px;}
 
   </style>
   </head>
@@ -34,7 +34,7 @@ layout: archive
   <div id="textbox">
    <p class="left_indent">PI</p>
    <p class="center">Postdoc</p>
-   <p class="right_indent">Assisstant</p>
+   <p class="right_indent">Assisstant Research Professor</p>
   </div>
   
  <div style="clear: both;"></div>
