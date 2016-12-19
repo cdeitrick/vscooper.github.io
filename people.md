@@ -6,8 +6,8 @@ layout: archive
 
   <style>
       .left_indent { margin-left: 150px; }
-      .right_indent { margin-right: 50px; float: right;}
-      .left_indent_people { margin-left 90px; }
+      .right_indent { margin-right: 50px; float: right; }
+      .left_indent_people { margin-left: 90px; }
   </style>
   
   <p align="center">
