@@ -9,8 +9,10 @@ layout: archive
       .right_indent { margin-right: 50px; float: right; }
       .left_indent_people { margin-left: 35px; }
       .right_indent_people { margin-right: 35px; float: right; }
-      .dan_snyder { margin-left: 15px; }
+      .dan_snyder { margin-left: 25px; }
+      .dan_snyder_name { margin-left: 25px }
       .katrina_harris { margin-right: 55px; float: right; }
+      .katrina_harris_name { margin-right: 55px; float: right; }
   </style>
   
   <p align="center">
@@ -55,8 +57,8 @@ layout: archive
   <br><br><br><br><br><br><br>
 
   <p> 
-    <span class="left_indent"><b>Senior Research Spealist</b></span>
-    <span class="right_indent"><b>Ph.D. Student</b></span>
+    <span class="dan_snyder_name"><b>Senior Research Spealist</b></span>
+    <span class="katrina_harris_name"><b>Ph.D. Student</b></span>
     <br>
     <span class="dan_snyder">
       <a href="/people/DanSnyder.md/">Dan Snyder</a> | 
