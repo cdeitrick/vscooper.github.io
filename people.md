@@ -15,7 +15,7 @@ layout: archive
 <br><br><br>
 
 .centerpics {
-
+  
 }
 
 #images{
@@ -23,6 +23,6 @@ layout: archive
 }
 
 <div id="images">
-  <a><img src="/images/CooperHeadshot.jpeg" /></a>
-  <a><img src="/images/CooperHeadshot.jpeg" /></a>
+  <img src="/images/CooperHeadshot.jpeg" />
+  <img src="/images/CooperHeadshot.jpeg" />
 </div>
