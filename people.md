@@ -5,8 +5,8 @@ layout: archive
 <html>
 
   <style>
-      .leftindent { margin-left: 150px; }
-      .rightindent { margin-right: 150px; }
+      div.leftindent { margin-left: 150px; }
+      div.rightindent { margin-right: 150px; }
   </style>
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
@@ -27,9 +27,9 @@ layout: archive
   </p>
   <br><br><br><br><br><br><br>
 
-  <p> 
+  <body> 
     <div class="leftindent">Postdoc</div>
     <div class="rightindent">Assisstant Reseach Professor</div>
- </p>
+ </body>
   
 </html>
