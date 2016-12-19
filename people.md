@@ -26,7 +26,7 @@ layout: archive
   </p>
   <br><br><br><br><br><br><br>
 
-  <h1> 
+  <body> 
     <div class="leftindent"> Caroline Turner</div>
-  </h1>
+  </body>
 </html>
