@@ -29,9 +29,9 @@ layout: archive
   <br><br><br><br><br><br><br>
 
   <body> 
-    <span><div class="leftindent"><b>Postdoc</b>
-      <div class="rightindent"><b>Assisstant Reseach Professor</b></div>
-    </div></span>
+    <div class="leftindent"><b>Postdoc</b>
+      <span><div class="rightindent"><b>Assisstant Reseach Professor</b></div><span>
+    </div>
   </body>
   
 </html>
