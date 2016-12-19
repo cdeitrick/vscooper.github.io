@@ -8,6 +8,7 @@ layout: archive
       .left_indent { margin-left: 150px; }
       .right_indent { margin-right: 50px; float: right; }
       .left_indent_people { margin-left: 35px; }
+      .right_indent_people { margin-right: 35px; float: right; }
   </style>
   
   <p align="center">
@@ -37,7 +38,12 @@ layout: archive
       <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
       <a href="#">CV</a> |
       <a href="mailto:cbt12@pitt.edu">Contact Me</a>
-      </span>
+    </span>
+    <span class="right_indent_people">
+      <a href="/people/ChrisMarshall.md/">Chris Marshall, Ph.D.</a> |
+      <a href="#">CV</a> |
+      <a href="mailto:cmarshall@pitt.edu">Contact Me</a>
+    </span>
   </p>
     
 </html>
