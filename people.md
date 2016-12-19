@@ -19,7 +19,7 @@ layout: archive
     <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a><br><br>
     <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
-  <br><br><br>
+  <br><br>
 
 
   <p>
