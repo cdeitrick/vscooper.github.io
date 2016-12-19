@@ -20,9 +20,10 @@ layout: archive
   <body>
     <div id="imageHolder2">
       <div id="leftDiv"><img src="/images/CooperHeadshot.jpeg" alt="left" /></div>
-      <div id="middleDiv"><img src="/images/beakerhands.jpg" alt="middle" /></div>
-      <div id="rightDiv"><img src="/images/turner.jpeg.jpg" alt="right" /></div>
+      <div id="rightDiv"><img src="/images/beakerhands.jpg" alt="right" /></div>
+      <div id="middleDiv"><img src="/images/turner.jpeg.jpg" alt="middle" /></div>
+      
     </div>
   </body>
-  
+
 </html>
