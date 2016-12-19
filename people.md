@@ -14,7 +14,7 @@ layout: archive
 </p>
 <br><br><br>
 
-<p align="center">
-  <img src="/images/turner.jpeg.jpg" />
-  <img src="/images/beakerhands.jpg" />
+<p >
+  <img src="/images/turner.jpeg.jpg" align="left"/>
+  <img src="/images/beakerhands.jpg" align="right"/>
 </p>
