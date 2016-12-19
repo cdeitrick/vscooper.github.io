@@ -17,7 +17,7 @@ layout: archive
     <a href="/people/VaughnCooper/">Vaughn Cooper, Ph.D.</a> |
     <a href="/cooper-bio">CV</a> |
     <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a><br><br>
-    <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
   <br><br>
 
@@ -30,7 +30,7 @@ layout: archive
 
   <body> 
     <div class="leftindent"><b>Postdoc</b>
-      <span><div class="rightindent"><b>Assisstant Reseach Professor</b></div></span>
+      <div class="rightindent"><span><b>Assisstant Reseach Professor</b></span></div>
     </div>
   </body>
   
