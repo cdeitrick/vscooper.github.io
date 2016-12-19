@@ -16,7 +16,7 @@ layout: archive
     
     .left_indent { float: left; text-align: left;}
     
-    .center {floar: left; text-align: center;}
+    .center {text-align: center;}
     
     .right_indent { float: right;}
 
