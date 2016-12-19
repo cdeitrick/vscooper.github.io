@@ -5,7 +5,7 @@ layout: archive
 <html>
 
   <style>
-      .leftindent { margin-left: 300px; }
+      .leftindent { margin-left: 200px; }
   </style>
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
@@ -26,6 +26,6 @@ layout: archive
   </p>
   <br><br><br><br><br><br><br>
 
-  <p class="leftindent">Caroline Turner</p>
+  <p class="leftindent">Postdoc</p>
   
 </html>
