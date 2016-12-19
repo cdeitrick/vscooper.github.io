@@ -5,7 +5,7 @@ layout: archive
 <html>
 
   <style>
-      .leftindent { margin-left: 200px; }
+      .leftindent { margin-left: 100px; }
   </style>
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
