@@ -32,6 +32,8 @@ layout: archive
     <div class="leftindent">
       <b><span>Postdoc</span></b>
     </div>
+  </body>
+  <body>
     <div class="rightindent">
       <b><span>Assisstant Reseach Professor</span></b></div>
   </body>
