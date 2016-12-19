@@ -12,9 +12,9 @@ layout: archive
   </style>
   
   <p>
-    <img src="/images/CooperHeadshot.jpeg" align="left" hspace="50">
+    <img src="/images/CooperHeadshot.jpeg" align="left">
     <img src="/images/turner.jpeg.jpg" align="center">
-    <img src="/images/beakerhands.jpg" align="right" hspace="50">
+    <img src="/images/beakerhands.jpg" align="right">
   </p>
     
 </html>
