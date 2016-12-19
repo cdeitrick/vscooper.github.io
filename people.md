@@ -3,9 +3,11 @@ permalink: /people/
 layout: archive
 ---
 <html>
-  <style type="text/css">
-    .leftindent { margin-left: 300px; }
+  <head>
+    <style>
+      .leftindent { margin-left: 300px; }
     </style>
+  </head>
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
     <br>
