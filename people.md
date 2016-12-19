@@ -18,7 +18,7 @@ layout: archive
     
     .center {text-align: center;}
     
-    .right_indent { float: right; margin-right:200px;}
+    .right_indent { float: right; margin-right:100px;}
 
   </style>
   </head>
