@@ -13,7 +13,7 @@ layout: archive
   
   <p>
     <img src="/images/CooperHeadshot.jpeg" class="left_indent">
-    <img src="/images/turner.jpeg.jpg" class="center">
+    <img src="/images/turner.jpeg.jpg" align="center">
     <img src="/images/beakerhands.jpg" class="right_indent">
   </p>
     
