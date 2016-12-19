@@ -35,5 +35,5 @@ layout: archive
   <span class="left_indent"><b>PI</b></span>
   <span class="center"><b>Postdoc</b></span>
   <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
-  
+ </p>
 </html>
