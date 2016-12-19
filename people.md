@@ -16,6 +16,6 @@ layout: archive
 
 
 <p>
-  <img src="/images/turner.jpeg.jpg" align="left" hspace="20">
-  <img src="/images/beakerhands.jpg" align="right" hspace="20">
+  <img src="/images/turner.jpeg.jpg" align="left" hspace="50">
+  <img src="/images/beakerhands.jpg" align="right" hspace="50">
 </p>
