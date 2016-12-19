@@ -2,9 +2,8 @@
 permalink: /people/
 layout: archive
 ---
-<!DOCTYPE html>
 
-<link rel="stylesheet" href="css/leftindent.css"/>
+<link rel="stylesheet" href="/css/leftindent.css"/>
 
 <p align="center">
   <img src="/images/CooperHeadshot.jpeg" />
