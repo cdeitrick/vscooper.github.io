@@ -2,8 +2,6 @@
 permalink: /people/
 layout: archive
 ---
-<html>
-
   <style>
       .left_indent { margin-left: 150px; }
       .right_indent { margin-right: 50px; float: right; }
@@ -71,4 +69,3 @@ layout: archive
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
   </p>
-</html>
