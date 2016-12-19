@@ -2,6 +2,9 @@
 permalink: /people/
 layout: archive
 ---
+
+<link rel="stylesheet" href="css/leftindent.css"/>
+
 <p align="center">
   <img src="/images/CooperHeadshot.jpeg" />
   <br>
@@ -20,6 +23,8 @@ layout: archive
   <img src="/images/beakerhands.jpg" align="right" hspace="100">
 </p>
 <br><br><br><br><br><br><br>
-<p class="leftindent"> 
-  Caroline Turner
-</p>
+<div class="leftindent">
+  <p class="leftindent"> 
+    Caroline Turner
+  </p>
+</div>
