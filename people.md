@@ -11,8 +11,9 @@ layout: archive
       .dan_snyder_name { margin-left: 90px }
       .katrina_harris { margin-right: 55px; float: right; }
       .katrina_harris_name { margin-right: 130px; float: right; }
+      #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
-  
+<div id="wrapper">  
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
     <br>
@@ -69,3 +70,4 @@ layout: archive
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
   </p>
+</div>
