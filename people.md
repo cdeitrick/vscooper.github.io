@@ -30,7 +30,7 @@ layout: archive
 
   <body> 
     <div class="leftindent"><b>Postdoc</b>
-      <span><div class="rightindent"><b>Assisstant Reseach Professor</b></div><span>
+      <span><div class="rightindent"><b>Assisstant Reseach Professor</b></div></span>
     </div>
   </body>
   
