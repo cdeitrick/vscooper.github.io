@@ -3,7 +3,7 @@ permalink: /people/
 layout: archive
 ---
 <html>
-  <link rel="stylesheet" href="/css/leftindent.css"/>
+  <link rel="stylesheet" href="css/leftindent.css" />
 
 
   <p align="center">
