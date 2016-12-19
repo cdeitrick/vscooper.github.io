@@ -6,7 +6,7 @@ layout: archive
 
   <style>
       .leftindent { margin-left: 150px; }
-      .rightindent { margin-right: 150px; text-align: right;}
+      .rightindent { margin-right: 150px; float:right;}
   </style>
   
   <p align="center">
@@ -29,8 +29,8 @@ layout: archive
   <br><br><br><br><br><br><br>
 
   <body> 
-    <span style="leftindent"><b>Postdoc</b></span>
-    <span style="rightindent"><b>Assisstant Reseach Professor</b></span>
+    <span class="leftindent"><b>Postdoc</b></span>
+    <span clas="rightindent"><b>Assisstant Reseach Professor</b></span>
   </body>
  
  
