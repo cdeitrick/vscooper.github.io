@@ -31,9 +31,12 @@ layout: archive
    </div>
  </body>
 
- <p>
-  <span class="left_indent"><b>PI</b></span>
-  <span class="center"><b>Postdoc</b></span>
-  <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
- </p>
+  <div id="textbox">
+   <p class="left_indent">PI</p>
+   <p class="center">Postdoc</p>
+   <p class="right_indent">Assisstant Research Professor</p>
+  </div>
+  
+ <div style="clear: both;"></div>
+
 </html>
