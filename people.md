@@ -14,17 +14,7 @@ layout: archive
 </p>
 <br><br><br>
 
-.centerpics {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#images{
-    text-align:center;
-}
-
-<div id="images">
-  <img class="ceterpics" src="/images/CooperHeadshot.jpeg" />
-  <img class="ceterpics" src="/images/CooperHeadshot.jpeg" />
-</div>
+<p align="center">
+  <img src="/images/CooperHeadshot.jpeg" />
+  <img src="/images/CooperHeadshot.jpeg" />
+</p>
