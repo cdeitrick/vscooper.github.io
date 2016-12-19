@@ -1,9 +1,9 @@
 ---
 permalink: /people/
 layout: archive
----
 <!DOCTYPE html>
 
+---
 <html>
   <link rel="stylesheet" href="css/leftindent.css" />
 
