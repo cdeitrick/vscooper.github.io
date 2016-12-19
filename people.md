@@ -6,7 +6,7 @@ layout: archive
 
   <style>
       .leftindent { margin-left: 150px; }
-      .rightindent { margin-right: 100px; float: right;}
+      .rightindent { margin-right: 50px; float: right;}
   </style>
   
   <p align="center">
