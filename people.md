@@ -1,12 +1,11 @@
 ---
 permalink: /people/
 layout: archive
-<!DOCTYPE html>
 ---
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="css/leftindent.css">
-    </head>
+  </head>
 
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
