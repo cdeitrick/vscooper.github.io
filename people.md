@@ -15,8 +15,8 @@ layout: archive
 <br><br><br>
 
 
-<body style="margin:10;padding:0">
-  <p class="tab">
+<body style="margin:10;padding:10">
+  <p>
     <img src="/images/turner.jpeg.jpg" align="left"/>
     <img src="/images/beakerhands.jpg" align="right"/>
   </p>
