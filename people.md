@@ -34,9 +34,9 @@ layout: archive
     <br>
     <span class="leftindent">
       <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
-      <a href="#">CV</a>
+      <a href="#">CV</a> |
       <a href="mailto:cbt12@pitt.edu">Contact Me</a>
       </span>
-    <
+  </p>
     
 </html>
