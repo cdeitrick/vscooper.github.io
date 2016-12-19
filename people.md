@@ -53,18 +53,18 @@ layout: archive
   <br><br><br><br><br><br><br>
 
   <p> 
-    <span class="left_indent"><b>Postdoc</b></span>
-    <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
+    <span class="left_indent"><b>Senior Research Spealist</b></span>
+    <span class="right_indent"><b>Ph.D. Student</b></span>
     <br>
     <span class="left_indent_people">
-      <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
+      <a href="/people/DanSnyder.md/">Dan Snyder, M.S.</a> | 
       <a href="#">CV</a> |
-      <a href="mailto:cbt12@pitt.edu">Contact Me</a>
+      <a href="mailto:djs150@pitt.edu">Contact Me</a>
     </span>
     <span class="right_indent_people">
-      <a href="/people/ChrisMarshall.md/">Chris Marshall, Ph.D.</a> |
+      <a href="/people/KatrinaHarris.md/">Katrina Harris, Ph.D. Student</a> |
       <a href="#">CV</a> |
-      <a href="mailto:cmarshall@pitt.edu">Contact Me</a>
+      <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
   </p>
 </html>
