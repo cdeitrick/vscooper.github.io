@@ -5,8 +5,9 @@ layout: archive
 <html>
 
   <style>
-      .leftindent { margin-left: 150px; }
-      .rightindent { margin-right: 50px; float: right;}
+      .left_indent { margin-left: 150px; }
+      .right_indent { margin-right: 50px; float: right;}
+      .left_indent_people { margin-left 50px; }
   </style>
   
   <p align="center">
@@ -15,7 +16,7 @@ layout: archive
     <b>PI</b>
     <br>
     <a href="/cooper-bio">Vaughn Cooper, Ph.D.</a> |
-    <a href="/Cooper-Pitt-CV.md">CV</a> |
+    <a href="/cv/">CV</a> |
     <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a><br><br>
     <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </p>
@@ -29,10 +30,10 @@ layout: archive
   <br><br><br><br><br><br><br>
 
   <p> 
-    <span class="leftindent"><b>Postdoc</b></span>
-    <span class="rightindent"><b>Assisstant Reseach Professor</b></span>
+    <span class="left_indent"><b>Postdoc</b></span>
+    <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
     <br>
-    <span class="leftindent">
+    <span class="left_indent_people">
       <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
       <a href="#">CV</a> |
       <a href="mailto:cbt12@pitt.edu">Contact Me</a>
