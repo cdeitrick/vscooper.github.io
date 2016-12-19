@@ -26,7 +26,7 @@ layout: archive
     <img src="/images/turner.jpeg.jpg" align="left" hspace="100">
     <img src="/images/beakerhands.jpg" align="right" hspace="100">
   </p>
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
 
   <p> 
     <span class="leftindent"><b>Postdoc</b></span>
