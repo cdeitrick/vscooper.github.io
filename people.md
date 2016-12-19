@@ -20,6 +20,6 @@ layout: archive
   <img src="/images/beakerhands.jpg" align="right" hspace="100">
 </p>
 <br><br><br><br><br><br><br>
-<p align="left"> 
+<p class="leftindent"> 
   Caroline Turner
 </p>
