@@ -4,8 +4,9 @@ layout: archive
 <!DOCTYPE html>
 ---
 <html>
-  <link rel="stylesheet" type="text/css" href="css/leftindent.css">
-
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/leftindent.css">
+    </head>
 
   <p align="center">
     <img src="/images/CooperHeadshot.jpeg" />
