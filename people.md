@@ -7,7 +7,7 @@ layout: archive
       .right_indent { margin-right: 50px; float: right; }
       .left_indent_people { margin-left: 35px; }
       .right_indent_people { margin-right: 35px; float: right; }
-      .dan_snyder { margin-left: 65px; }
+      .dan_snyder { margin-left: 85px; }
       .dan_snyder_name { margin-left: 90px }
       .katrina_harris { margin-right: 55px; float: right; }
       .katrina_harris_name { margin-right: 130px; float: right; }
