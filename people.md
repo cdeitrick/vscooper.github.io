@@ -10,11 +10,11 @@ layout: archive
       .dan_snyder { margin-left: 65px; }
       .dan_snyder_name { margin-left: 130px }
       .katrina_harris { margin-right: 65px; float: right; }
-      .katrina_harris_name { margin-right: 100px; float: right; }
+      .katrina_harris_name { margin-right: 110px; float: right; }
       .asl_name {margin-left: 150px; }
       .asl {margin-left: 35px; }
       .sileo {margin-right: 65px; float: right; }
-      .sileo_name {margin-right: 90px; float: right; }
+      .sileo_name {margin-right: 85px; float: right; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
@@ -93,7 +93,7 @@ layout: archive
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
     <span class="katrina_harris">
-      <a href="/people/KatrinaHarris.md/">Emily Sileo</a> |
+      <a href="/people/EmilySileo.md/">Emily Sileo</a> |
       <a href="#">CV</a> |
       <a href="mailto:ems249@pitt.edu">Contact Me</a>
     </span>
