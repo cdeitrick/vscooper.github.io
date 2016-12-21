@@ -51,7 +51,7 @@ layout: archive
  <br>
    <p>
     <img src="/images/beakerhands.jpg" align="left" hspace="100">
-    <img src="/images/beakerhands.jpg" align="right" hspace="100">
+    <img src="/images/kat.jpg" align="right" hspace="100">
   </p>
   <br><br><br><br><br><br><br>
 
