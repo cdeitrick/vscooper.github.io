@@ -11,8 +11,8 @@ layout: archive
       .dan_snyder_name { margin-left: 130px }
       .katrina_harris { margin-right: 55px; float: right; }
       .katrina_harris_name { margin-right: 130px; float: right; }
-      .asl_name {margin-right: 80px; }
-      .asl {margin-right: 100px; }
+      .asl_name {margin-left: 80px; }
+      .asl {margin-left: 100px; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
