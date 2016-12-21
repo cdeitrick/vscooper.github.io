@@ -13,6 +13,8 @@ layout: archive
       .katrina_harris_name { margin-right: 150px; float: right; }
       .asl_name {margin-left: 150px; }
       .asl {margin-left: 35px; }
+      .sileo {margin-right: 75px; float: right; }
+      .sileo_name {margin-right: 150px; float: right; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
@@ -60,14 +62,14 @@ layout: archive
 
   <p> 
     <span class="asl_name"><b>Postdoc</b></span>
-    <span class="katrina_harris_name"><b>Senior Research Spealist</b></span>
+    <span class="sileo_name"><b>Senior Research Spealist</b></span>
     <br>
     <span class="asl">
       <a href="/people/DanSnyder.md/">Alfonso Santos-Lopez</a> | 
       <a href="#">CV</a> |
       <a href="#">Contact Me</a>
     </span>
-    <span class="katrina_harris">
+    <span class="sileo">
       <a href="/people/DanSnyder.md/">Dan Snyder</a> | 
       <a href="#">CV</a> |
       <a href="mailto:djs150@pitt.edu">Contact Me</a>
