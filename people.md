@@ -14,7 +14,7 @@ layout: archive
       .asl_name {margin-left: 150px; }
       .asl {margin-left: 35px; }
       .sileo {margin-right: 65px; float: right; }
-      .sileo_name {margin-right: 85px; float: right; }
+      .sileo_name {margin-right: 90px; float: right; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
