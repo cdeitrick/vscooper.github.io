@@ -93,8 +93,8 @@ layout: archive
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
     <span class="katrina_harris">
-      <a href="/people/EmilySileo.md/">Emily Sileo</a> |
-      <a href="sileo_resume.docx">CV</a> |
+      <a href="/people/EmilySileo/">Emily Sileo</a> |
+      <a href="sileo_resume.docx" download>CV</a> |
       <a href="mailto:ems249@pitt.edu">Contact Me</a>
     </span>
   </p>
