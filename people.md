@@ -12,7 +12,7 @@ layout: archive
       .katrina_harris { margin-right: 70px; float: right; }
       .katrina_harris_name { margin-right: 100px; float: right; }
       .asl_name {margin-left: 150px; }
-      .asl {margin-left: 35px; }
+      .asl {margin-left: 5px; }
       .sileo {margin-right: 65px; float: right; }
       .sileo_name {margin-right: 85px; float: right; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
@@ -42,7 +42,7 @@ layout: archive
     <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
     <br>
     <span class="left_indent_people">
-      <a href="/people/CarolineTurer/">Caroline Turner, Ph.D.</a> | 
+      <a href="/people/CarolineTurner/">Caroline Turner, Ph.D.</a> | 
       <a href="#">CV</a> |
       <a href="mailto:cbt12@pitt.edu">Contact Me</a>
     </span>
