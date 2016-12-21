@@ -65,12 +65,12 @@ layout: archive
     <span class="sileo_name"><b>Senior Research Spealist</b></span>
     <br>
     <span class="asl">
-      <a href="/people/DanSnyder/">Alfonso Santos-Lopez, Ph.D.</a> | 
+      <a href="/people/AlfonsoSantosLopez">Alfonso Santos-Lopez, Ph.D.</a> | 
       <a href="#">CV</a> |
       <a href="#">Contact Me</a>
     </span>
     <span class="sileo">
-      <a href="/people/DanSnyder.md/">Dan Snyder</a> | 
+      <a href="/people/DanSnyder/">Dan Snyder</a> | 
       <a href="#">CV</a> |
       <a href="mailto:djs150@pitt.edu">Contact Me</a>
     </span>
@@ -79,7 +79,7 @@ layout: archive
   <br>
    <p>
     <img src="/images/kat.jpg" align="left" hspace="100">
-    <img src="/images/beakerhands.jpg" align="right" hspace="100">
+    <img src="/images/sileo.jpg" align="right" hspace="100">
   </p>
   <br><br><br><br><br><br><br>
 
@@ -88,7 +88,7 @@ layout: archive
     <span class="katrina_harris_name"><b>Research Technician </b></span>
     <br>
     <span class="dan_snyder">
-      <a href="/people/KatrinaHarris.md/">Katrina Harris</a> |
+      <a href="/people/KatrinaHarris/">Katrina Harris</a> |
       <a href="#">CV</a> |
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
     </span>
