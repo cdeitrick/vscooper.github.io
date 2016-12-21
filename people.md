@@ -42,7 +42,7 @@ layout: archive
     <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
     <br>
     <span class="left_indent_people">
-      <a href="/people/CarolineTurer.md/">Caroline Turner, Ph.D.</a> | 
+      <a href="/people/CarolineTurer/">Caroline Turner, Ph.D.</a> | 
       <a href="#">CV</a> |
       <a href="mailto:cbt12@pitt.edu">Contact Me</a>
     </span>
@@ -65,7 +65,7 @@ layout: archive
     <span class="sileo_name"><b>Senior Research Spealist</b></span>
     <br>
     <span class="asl">
-      <a href="/people/DanSnyder.md/">Alfonso Santos-Lopez</a> | 
+      <a href="/people/DanSnyder/">Alfonso Santos-Lopez, Ph.D.</a> | 
       <a href="#">CV</a> |
       <a href="#">Contact Me</a>
     </span>
@@ -94,7 +94,7 @@ layout: archive
     </span>
     <span class="katrina_harris">
       <a href="/people/EmilySileo.md/">Emily Sileo</a> |
-      <a href="#">CV</a> |
+      <a href="sileo_resume.docx">CV</a> |
       <a href="mailto:ems249@pitt.edu">Contact Me</a>
     </span>
   </p>
