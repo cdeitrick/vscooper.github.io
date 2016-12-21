@@ -52,7 +52,7 @@ layout: archive
  <br>
    <p>
     <img src="/images/beakerhands.jpg" align="left" hspace="100">
-    <img src="beakerhands.jpg" align="right" hspace="100">
+    <img src="/images/beakerhands.jpg" align="right" hspace="100">
   </p>
   <br><br><br><br><br><br><br>
 
@@ -74,24 +74,24 @@ layout: archive
   
   <br>
    <p>
-    <img src="/images/beakerhands.jpg" align="left" hspace="100">
-    <img src="/images/kat.jpg" align="right" hspace="100">
+    <img src="/images/kat.jpg" align="left" hspace="100">
+    <img src="/images/beakerhands.jpg" align="right" hspace="100">
   </p>
   <br><br><br><br><br><br><br>
 
   <p> 
-    <span class="dan_snyder_name"><b>Senior Research Spealist</b></span>
-    <span class="katrina_harris_name"><b>Ph.D. Student</b></span>
+    <span class="dan_snyder_name"><b>Ph.D Student</b></span>
+    <span class="katrina_harris_name"><b>Research Technician </b></span>
     <br>
     <span class="dan_snyder">
-      <a href="/people/DanSnyder.md/">Dan Snyder</a> | 
-      <a href="#">CV</a> |
-      <a href="mailto:djs150@pitt.edu">Contact Me</a>
-    </span>
-    <span class="katrina_harris">
       <a href="/people/KatrinaHarris.md/">Katrina Harris</a> |
       <a href="#">CV</a> |
       <a href="mailto:katrina.harris@pitt.edu">Contact Me</a>
+    </span>
+    <span class="katrina_harris">
+      <a href="/people/KatrinaHarris.md/">Emily Sileo</a> |
+      <a href="#">CV</a> |
+      <a href="mailto:ems249@pitt.edu">Contact Me</a>
     </span>
   </p>
   
