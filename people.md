@@ -12,6 +12,7 @@ layout: archive
       .katrina_harris { margin-right: 55px; float: right; }
       .katrina_harris_name { margin-right: 130px; float: right; }
       .asl_name {margin-right: 80px; }
+      .asl {margin-right: 100px; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
@@ -58,10 +59,10 @@ layout: archive
   <br><br><br><br><br><br><br>
 
   <p> 
-    <span class="dan_snyder_name"><b>Postdoc</b></span>
+    <span class="asl_name"><b>Postdoc</b></span>
     <span class="katrina_harris_name"><b>Senior Research Spealist</b></span>
     <br>
-    <span class="asl">
+    <span class="asl_name">
       <a href="/people/DanSnyder.md/">Alfonso Santos-Lopez</a> | 
       <a href="#">CV</a> |
       <a href="#">Contact Me</a>
