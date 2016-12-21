@@ -12,7 +12,7 @@ layout: archive
       .katrina_harris { margin-right: 55px; float: right; }
       .katrina_harris_name { margin-right: 130px; float: right; }
       .asl_name {margin-left: 150px; }
-      .asl {margin-left: 75px; }
+      .asl {margin-left: 50px; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
