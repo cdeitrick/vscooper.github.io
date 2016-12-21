@@ -9,8 +9,8 @@ layout: archive
       .right_indent_people { margin-right: 35px; float: right; }
       .dan_snyder { margin-left: 65px; }
       .dan_snyder_name { margin-left: 130px }
-      .katrina_harris { margin-right: 75px; float: right; }
-      .katrina_harris_name { margin-right: 150px; float: right; }
+      .katrina_harris { margin-right: 65px; float: right; }
+      .katrina_harris_name { margin-right: 100px; float: right; }
       .asl_name {margin-left: 150px; }
       .asl {margin-left: 35px; }
       .sileo {margin-right: 65px; float: right; }
