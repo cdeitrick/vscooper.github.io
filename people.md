@@ -47,7 +47,7 @@ layout: archive
       <a href="mailto:cbt12@pitt.edu">Contact Me</a>
     </span>
     <span class="right_indent_people">
-      <a href="/people/ChrisMarshall.md/">Chris Marshall, Ph.D.</a> |
+      <a href="/people/ChrisMarshall/">Chris Marshall, Ph.D.</a> |
       <a href="#">CV</a> |
       <a href="mailto:cmarshall@pitt.edu">Contact Me</a>
     </span>
