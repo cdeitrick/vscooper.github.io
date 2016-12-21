@@ -13,8 +13,8 @@ layout: archive
       .katrina_harris_name { margin-right: 150px; float: right; }
       .asl_name {margin-left: 150px; }
       .asl {margin-left: 35px; }
-      .sileo {margin-right: 75px; float: right; }
-      .sileo_name {margin-right: 100px; float: right; }
+      .sileo {margin-right: 65px; float: right; }
+      .sileo_name {margin-right: 85px; float: right; }
       #wrapper {margin-left:auto; margin-right:auto; width:960px; }
   </style>
 <div id="wrapper">  
