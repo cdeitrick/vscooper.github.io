@@ -26,7 +26,9 @@ layout: archive
     <a href="/cooper-bio">Vaughn Cooper, Ph.D.</a> |
     <a href="/cv/">CV</a> |
     <a href="mailto:vaughn.cooper@pitt.edu">Contact Me</a><br><br>
-    <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <span>
+      <a href="https://twitter.com/vscooper" class="twitter-follow-button" data-show-count="false">Follow @vscooper</a><script async              src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <a href="http://orcid.org/0000-0001-7726-0765">orcID</a> </span>
   </p>
   <br>
 
