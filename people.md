@@ -19,7 +19,7 @@ layout: archive
   </style>
 <div id="wrapper">  
   <p align="center">
-    <img src="/images/CooperHeadshot.jpeg" />
+    <img src="/images/CooperHeadshot.jpeg">
     <br>
     <b>PI</b>
     <br>
