@@ -1,7 +1,7 @@
 ---
 permalink: /blog/
 layout: article
-title: "Test"
+title: "The root of pan-adaptationism?"
 ---
 There's been a fair bit of [recent discussion](http://sandwalk.blogspot.com/2017/01/why.html) about why most biologists are (incorrectly) adaptationists. I don't dispute this but think it's worth reconsidering why. Some have argued that this is because of intuition (adaptation just makes sense). However I think a better explanation lies in how we teach - or fail to teach - evolution and acknowledge that teaching non-adaptive evolutionary processes is difficult.  Most biologists haven't had a full course in evolution. Instead, most have had a week or two in their college introductory biology class and if lucky, one week in their high school biology class. If they went to graduate school, they likely had no coursework that explicitly considers evolutionary biology. This is also true for most teachers, so most do not understand evolutionary biology with enough comfort to go beyond well-trodden examples of adaptations to explore with students how and why evolution may not be adaptive.
 
