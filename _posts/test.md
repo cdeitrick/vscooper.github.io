@@ -1,5 +1,5 @@
 ---
-permalink: /blog/test
+permalink: /blog/
 layout: article
 title: "Test"
 categories: blog
