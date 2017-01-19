@@ -25,6 +25,11 @@
   excerpt: "Open positions"
   image: 
   
+- title: Blog
+  url: /blog/
+  excerpt: "Blog"
+  image: 
+  
 - url: /people/VaughnCooper/
   image:
 
