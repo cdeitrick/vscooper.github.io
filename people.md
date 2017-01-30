@@ -41,7 +41,7 @@ layout: archive
 
   <p> 
     <span class="left_indent"><b>Postdoc</b></span>
-    <span class="right_indent"><b>Assisstant Reseach Professor</b></span>
+    <span class="right_indent"><b>Research Assistant Professor</b></span>
     <br>
     <span class="left_indent_people">
       <a href="/people/CarolineTurner/">Caroline Turner, Ph.D.</a> | 
