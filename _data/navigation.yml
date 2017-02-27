@@ -30,6 +30,10 @@
   excerpt: "Blog"
   image: 
   
+- title: Sequencing
+  url: /sequencing/
+  excerpt: "Sequence with us!"
+  
 - url: /people/VaughnCooper/
   image:
 
