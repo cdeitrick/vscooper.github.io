@@ -15,10 +15,10 @@
   excerpt: "Evolution in action"
   image:
 
-- title: News
-  url: http://micropopbio.org
-  excerpt: "News"
-  image:
+#- title: News
+#  url: http://micropopbio.org
+#  excerpt: "News"
+#  image:
 
 - title: Opportunities
   url: /opportunities/
