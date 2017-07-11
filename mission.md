@@ -3,7 +3,7 @@ layout: default
 permalink: /hidden/
 ---
 
-### <center>Our Mission is to translate evolutionary biology to improve human health, reveal the origins of biodiversity and empower K-12 education!</center>
+### <center>Our mission is to translate evolutionary biology to improve human health, reveal the origins of biodiversity and empower K-12 education!</center>
 
 {% include toc.html %}
 
