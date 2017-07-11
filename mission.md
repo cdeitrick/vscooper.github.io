@@ -5,11 +5,11 @@ modified: 2016-02-12
 permalink: /hidden/
 ---
 
-###Our Mission is to translate evolutionary biology to improve human health, reveal the origins of biodiversity and empower K-12 education!
+### Our Mission is to translate evolutionary biology to improve human health, reveal the origins of biodiversity and empower K-12 education!
 
 {% include toc.html %}
 
-###Vision
+### Vision
 
 We study the evolution, ecology, and genome dynamics of experimental and clincal microbial populations.  The Following questions motivate our work:
 
