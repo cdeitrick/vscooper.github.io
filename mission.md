@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Research
-modified: 2016-02-12
 permalink: /hidden/
 ---
 
