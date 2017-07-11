@@ -5,11 +5,12 @@ permalink: /hidden/
 
 ### Our Mission is to translate evolutionary biology to improve human health, reveal the origins of biodiversity and empower K-12 education!
 
+# Table of Contents
+1. [Vision](#Vision)
+2. [Origins of multicellularity](#Origins of multicellularity)
+3. [Third Example](#third-example)
 
-{% include toc.html %}
-
-
-### Vision
+## Vision
 
 We study the evolution, ecology, and genome dynamics of experimental and clincal microbial populations.  The Following questions motivate our work:
 
